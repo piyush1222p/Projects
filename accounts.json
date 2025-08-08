@@ -1,0 +1,26 @@
+[
+    {
+        "AccountHolderName": "Piyush Shukla",
+        "AccountNumber": "9315310130",
+        "Balance": 13140.0,
+        "Password": "Piyush@34354961"
+    },
+    {
+        "AccountHolderName": "Santosh Kumar",
+        "AccountNumber": "7011424162",
+        "Balance": 16360.0,
+        "Password": "Santo@0112"
+    },
+    {
+        "AccountHolderName": "Siddharth Rai",
+        "AccountNumber": "8788922654",
+        "Balance": 2000.0,
+        "Password": "123"
+    },
+    {
+        "AccountHolderName": "Deepak Sir",
+        "AccountNumber": "12345678",
+        "Balance": 0.0,
+        "Password": "Deepak@Sir"
+    }
+]
